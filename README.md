@@ -2,3 +2,4 @@
 
 Curso completo gratis aca: https://www.youtube.com/watch?v=4Dko5W96WHg
 
+# miPrimerContendorEnDocker
